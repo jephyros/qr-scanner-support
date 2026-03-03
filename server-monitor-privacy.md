@@ -71,7 +71,7 @@
 개인정보처리방침에 관한 문의는 아래로 연락해 주세요.
 
 - **개발자:** Brad Choi
-- **이메일:** krchis@icloud.com
+- **이메일:** kr.chis@gmail.com
 
 ---
 ---
@@ -142,4 +142,4 @@ This Privacy Policy may be updated without prior notice. Significant changes wil
 For questions about this Privacy Policy, please contact:
 
 - **Developer:** Brad Choi
-- **Email:** krchis@icloud.com
+- **Email:** kr.chis@gmail.com
