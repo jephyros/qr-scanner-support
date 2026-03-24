@@ -41,3 +41,46 @@
 
 ### 8. 시행일
 이 방침은 **2026년 3월 24일**부터 시행됩니다.
+---
+
+# Privacy Policy
+
+The app **Barcode & QR Scanner** (hereinafter referred to as 'the App') values your personal information and is committed to complying with relevant laws and regulations. The App includes Google AdMob advertising services and discloses the following matters regarding data collection and use.
+
+### 1. Collection and Use of Personal Information
+The App **does not directly collect or store personally identifiable information** such as name, email, or phone number. However, for the purpose of service operation and advertising, the following information may be collected automatically:
+
+* **Advertising Identifier (IDFA):** Used to provide personalized advertisements and measure advertising performance.
+* **Device and Service Usage History:** Device model, OS version, app usage statistics, ad clicks, and interaction data may be collected.
+
+### 2. Third-Party Services and Data Sharing
+The App uses the following third-party services for service provision and ad revenue generation, and data may be collected and processed by these providers:
+
+* **Google AdMob (Google Ireland Limited)**
+    * **Purpose:** Providing personalized ads, analyzing ad effectiveness, fraud prevention, and system security.
+    * **Items Collected:** Advertising Identifier (IDFA), cookies, IP address, device information, and log data.
+    * **Reference:** [Google Privacy & Terms](https://policies.google.com/privacy)
+
+### 3. Camera Permission Information
+The App uses the device's **camera permission** to recognize barcodes and QR codes.
+* Visual information through the camera is used only for real-time code analysis.
+* Captured images or videos are not stored outside the device or transmitted to servers.
+
+### 4. User Control (Opt-out of Tracking)
+Users can decide whether to allow ad tracking at any time through the iOS device settings.
+* **How to set:** Go to `Settings > Privacy & Security > Tracking` to manage permissions for each app.
+
+### 5. Data Storage and Security
+Since the App does not directly collect any data, it does not sell or share data with third parties. Data collected through external advertising networks (AdMob) is protected according to their respective security policies.
+
+### 6. External Links
+Clicking a URL from a scanned QR code may lead to external websites. Please be aware that the privacy policies of such sites are independent of this App.
+
+### 7. Contact Information
+If you have any questions regarding this Privacy Policy or the use of the App, please contact:
+
+* **Email:** kr.chis@gmail.com
+* **Developer:** BRAD CHOI
+
+### 8. Effective Date
+This policy is effective as of **March 24, 2026**.
